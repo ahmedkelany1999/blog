@@ -1,0 +1,95 @@
+
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+      "author": { "name": "Tracey Wilson", "avatar": "https://i.pravatar.cc/40?img=12" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras interdum, magna ac tristique cursus"
+    },
+    {
+      "id": 2,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?auto=format&fit=crop&w=800&q=60",
+      "author": { "name": "Jane Fonseca", "avatar": "https://i.pravatar.cc/40?img=5" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "This article walks through building components for a blog. It covers layout, routing and accessibility.\n\nCode samples and patterns help create production-ready UI components."
+    },
+    {
+      "id": 3,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=60",
+      "author": { "name": "Elizabeth Salim", "avatar": "https://i.pravatar.cc/40?img=3" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Design systems are living documentation. They allow designers and engineers to share components and tokens.\n\nStart small and grow the system with governance and automation."
+    },
+    {
+      "id": 4,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://unsplash.com/blog/content/images/size/w1000/2025/08/kevin-mueller-nyPixv20H7Y-unsplash.jpg",
+      "author": { "name": "Kerry Villan", "avatar": "https://i.pravatar.cc/40?img=8" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Tiny houses force prioritization. They shine a light on what matters and reduce waste.\n\nThere are clever storage solutions and multi-purpose furniture examples."
+    },
+    {
+      "id": 5,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=60",
+      "author": { "name": "Tommy Edison", "avatar": "https://i.pravatar.cc/40?img=12" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Short meditations can train the brain for longer focus. Start with 5 minutes a day and build up.\n\nPractical exercises and tracked experiments show measurable benefits."
+    },
+    {
+      "id": 6,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=800&q=60",
+      "author": { "name": "Avery Miller", "avatar": "https://i.pravatar.cc/40?img=20" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Golden hour is powerful. Compose for depth and scale. Bring spare batteries and patience.\n\nWorkflow tips for editing and sharing your best shots."
+    },
+    {
+      "id": 7,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60",
+      "author": { "name": "Sarah Connor", "avatar": "https://i.pravatar.cc/40?img=9" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Charging networks are growing. Battery tech continues to improve.\n\nPolicy and grid upgrades will influence rollout speed."
+    },
+    {
+      "id": 8,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://unsplash.com/blog/content/images/max/800/1-OZ6ueZkanwZAT47vAdcHIw.jpeg",
+      "author": { "name": "Denise Harper", "avatar": "https://i.pravatar.cc/40?img=21" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Choose rugged gadgets and protect them from sand and water.\n\nA short packing checklist saves time and stress."
+    },
+    {
+      "id": 9,
+      "title": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "category": "Technology",
+      "thumbnail": "https://unsplash.com/blog/content/images/max/800/1-5LQIf24UZE91-YIebU64LA.jpeg",
+      "author": { "name": "Ryan Walker", "avatar": "https://i.pravatar.cc/40?img=31" },
+      "date": "August 20, 2022",
+      "excerpt": "The Impact of Technology on the Workplace: How Technology Is Changing",
+      "content": "Controller grips, headsets and storage expansion are common upgrades.\n\nA few recommendations at different price points."
+    }
+  ]
+}
